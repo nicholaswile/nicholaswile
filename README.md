@@ -1,6 +1,6 @@
-## Hi, I'm Niko ~
+<h1> Hello, I'm Niko ~</h1>
 
-I'm mostly working in the manually managed memory domain using C++ with a focus on computer graphics and multimedia, while also utilizing high-level abstractions in video game development and virtual reality with Unity and Unreal Engine.
+<p align="justify">I work in a VR Research Lab at KSU. For work projects I utilize high-level abstractions in video game development and virtual reality with Unity and Unreal Engine. For personal projects I primarily work in the manually managed memory domain using C++ with a focus on computer graphics and multimedia. Some of my projects include software renderers, ray tracers, hardware accelerated graphics, video games, VR simulations, video game console emulators, and computer vision. </p>
 
 <!--
 **nicholaswile/nicholaswile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
