@@ -2,8 +2,6 @@
 
 I'm mostly working in the manually managed memory domain using C++ with a focus on computer graphics and multimedia, while also utilizing high-level abstractions in video game development and virtual reality with Unity and Unreal Engine.
 
-My projects include software renderers, hardware-accelerated graphics, video games and virtual reality simulations, video game console emulators, game AI, and computer vision. I also possess creative skills in 3D modeling, animation, digital art, and have a deep understanding of the digital media production pipeline and asset management. 
-
 <!--
 **nicholaswile/nicholaswile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
