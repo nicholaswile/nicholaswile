@@ -1,6 +1,6 @@
 <h1> Hello, I'm Niko ~</h1>
 
-I'm a VR Developer for a research lab at KSU. I work on both low-level, manually managed memory applications in computer graphics and multimedia with C++, as well as video game development and virtual reality with Unity and Unreal Engine.
+I'm a VR Developer for a research lab at KSU. I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.
 
 <!--
 **nicholaswile/nicholaswile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
