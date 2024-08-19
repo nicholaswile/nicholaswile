@@ -2,7 +2,7 @@
 
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
-##### I'm a VR Developer for a research lab at KSU. I work on low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.
+I'm a VR Developer for a research lab at KSU. I work on low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.
 
 
 <!--
