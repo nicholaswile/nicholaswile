@@ -1,6 +1,6 @@
 # Hello, I'm Niko ~
-  
-| <img src="luna-sailor-moon.gif" width="300"> | <p align="justify">I'm a VR Developer for a research lab at KSU. I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.</p> |
+
+| <img src="luna-sailor-moon.gif" width="250" alt="Luna cat from Sailor Moon, programming"> | <p align="justify">I'm a VR Developer for a research lab at KSU. I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.</p> |
 |:---:|:---|
 
 <br clear="left">
