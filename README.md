@@ -2,7 +2,7 @@
 
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
-I work on immersive technology research and development, with a focus on 3D computer graphics, video game design, and AR/VR/MR, primarily with Unity and Unreal Engine. I also have experience with emulation, machine learning, computer vision, and natural language processing.
+I work on immersive technology research and development, with a focus on 3D computer graphics, video game design, and AR/VR/MR, primarily with Unity and Unreal Engine. I'm also experienced with emulation, machine learning, computer vision, and natural language processing.
 
 <!--
 | <img width="200" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> | <p align="justify">I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.</p> |
