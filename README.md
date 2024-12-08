@@ -1,4 +1,4 @@
-# Hello, I'm Nicho ~
+# hello! i'm nicho ~
 
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
