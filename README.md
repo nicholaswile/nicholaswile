@@ -2,7 +2,7 @@
 
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
-i program with C++, C#, and Python; develop immersive multimedia with Unity and Unreal Engine; model and animate with Autodesk Maya; and write research papers (recently published in IEEE)! i'm a CS postgrad and research assistant.
+i'm a CS research assistant focusing on immersive technology R&D. i design and develop immersive multimedia with Unity and Unreal Engine; model and animate with Autodesk Maya; and write research papers (recently published in IEEE)! my main programming languages are C++, C#, and Python.
 
 my favorite projects to work on include video game demos, simulations, 3D computer graphics, and AR/VR/MR. i’m also interested in game engines, game console emulators, machine learning, computer vision, and NLP.
 <!--
