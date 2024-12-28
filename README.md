@@ -2,7 +2,8 @@
 
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
-my favorite projects to work on include video game demos, simulations, 3D computer graphics, and AR/VR/MR. i’m also interested in game engines, game console emulators, machine learning, computer vision, and NLP.
+my favorite projects to work on include video game demos, simulations, 3D computer graphics, and AR/VR/MR. i’m also interested in game engines, game console emulators, machine learning, computer vision, and NLP. i frequently use C++, C#, Python, Unity, Unreal Engine, Autodesk Maya, and OpenGL. 
+
 <!--
 | <img width="200" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> | <p align="justify">I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.</p> |
 |:---:|:---|
