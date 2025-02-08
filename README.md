@@ -2,7 +2,7 @@
 
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
-My favorite projects to work on include games, game engines, game console emulators, 3D graphics and renderers, and simulations. I'm additionally involved with 3D asset production, optimization, and game engine integration, as well as leveraging computer vision and natural language processing for enhanced user immersion.
+I work on games and graphics software, so you're gonna see a lot of C++, C#, Python, Unity, Unreal Engine, OpenGL, GLSL, HLSL here. I like optimizing for performance and stability on resource-constrained devices.
 
 <!--
 | <img width="200" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> | <p align="justify">I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.</p> |
