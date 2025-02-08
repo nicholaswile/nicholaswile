@@ -2,7 +2,7 @@
 
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
-I work on games and graphics software, so you're gonna see a lot of C++, C#, Python, Unity, Unreal Engine, OpenGL, GLSL, HLSL here. I like optimizing my software for performance and stability on resource-constrained devices; contrarily, I like littering my Git repos with large Gif files.
+I work on games and graphics software, so you're gonna see a lot of C++, C#, Python, Unity, Unreal Engine, OpenGL, GLSL, HLSL here. I like optimizing my software for performance and stability on resource-constrained devices; contrarily, I litter my Git repos with large Gif files.
 
 <!--
 | <img width="200" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> | <p align="justify">I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.</p> |
