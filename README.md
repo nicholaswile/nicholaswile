@@ -1,8 +1,9 @@
 # hello! i'm nicho ~
 
+i'm a KSU alum that recently graduated with my master's and bachelor's in computer science and a minor in game design. i love to design and program video games and graphics software, and i have worked in virtual reality research and development with the KSU department of software engineering and game development (SWEGD) the past 2 years, leading to a research publication in IEEE ISMAR.
+
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
-I work on games and graphics software, so you'll see lots of C++, C#, Python, Unity, Unreal Engine, OpenGL, GLSL, HLSL here. I like optimizing my software for performance and stability on resource-constrained devices. Contrarily, I litter my Git repos with large Gif files.
 
 <!--
 | <img width="200" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> | <p align="justify">I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.</p> |
