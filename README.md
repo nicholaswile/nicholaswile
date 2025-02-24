@@ -1,6 +1,6 @@
 # hello! i'm nicho ~
 
-i'm a KSU alum that recently graduated with my master's and bachelor's in computer science and a minor in game design. i love to design and program video games and graphics software, and i have worked in virtual reality research and development with the KSU department of software engineering and game development (SWEGD) the past 2 years, leading to a research publication in IEEE ISMAR.
+i recently graduated with my master's and bachelor's in computer science and a minor in game design. i am experienced in real-time 3D graphics and simulation using Unity and Unreal Engine, as well as implementing low-level systems for video games and graphics software.
 
 <img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
 
