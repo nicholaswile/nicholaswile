@@ -1,6 +1,6 @@
 # hello! i'm nicho ~
 
-i'm a programmer experienced in c++ and c# .net development, with a focus on real-time 3D graphics and simulation using unity and unreal engine, as well as implementing low-level systems for video games and graphics software
+i'm a programmer experienced in c++ and c# .net development that's skilled in real-time 3D graphics and simulation using unity and unreal engine as well as implementing custom low-level systems. i love to design and program video games and graphics software ~
 
 <div align="center">
 <img height="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> <img height="256pc" src="https://github.com/user-attachments/assets/029971b0-5eaa-4c33-a130-c8e5dc137e07">
