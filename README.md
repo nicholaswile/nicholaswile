@@ -1,9 +1,10 @@
 # hello! i'm nicho ~
 
-i recently graduated with my master's and bachelor's in computer science and a minor in game design. i am experienced in real-time 3D graphics and simulation using Unity and Unreal Engine, as well as implementing low-level systems for video games and graphics software.
+i'm a programmer experienced in c++ and c# .net development, with a focus on real-time 3D graphics and simulation using unity and unreal engine, as well as implementing low-level systems for video games and graphics software
 
-<img width="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming">
-
+<div align="center">
+<img height="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> <img height="256pc" src="https://github.com/user-attachments/assets/029971b0-5eaa-4c33-a130-c8e5dc137e07">
+</div>
 
 <!--
 | <img width="200" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> | <p align="justify">I work on both low-level, manually managed memory applications in computer graphics and multimedia using C++, as well as video game development and virtual reality with Unity and Unreal Engine.</p> |
