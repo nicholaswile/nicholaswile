@@ -1,7 +1,7 @@
 # hello! i'm nicho ~
 
 i'm a full-time software engineer in the music industry, researcher in VR, and game designer and programmer with a focus on graphics. 
-experienced in c++, c#, python, unity, unreal engine, console / VR platforms, and general webmastering with html5, css3, and good 'ol php. ~
+experienced in c++, c#, python, unity, unreal engine, console / VR platforms, and general webmastering with html5, css3, and php. ~
 
 <div align="center">
 <img height="100%" src="luna-sailor-moon.gif" alt="Luna cat from Sailor Moon, programming"> <img height="256pc" src="https://github.com/user-attachments/assets/029971b0-5eaa-4c33-a130-c8e5dc137e07">
